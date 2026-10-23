@@ -1,0 +1,26 @@
+0.0.0.0 chatgpt.com
+0.0.0.0 openai.com
+0.0.0.0 api.openai.com
+0.0.0.0 auth.openai.com
+0.0.0.0 platform.openai.com
+0.0.0.0 cdn.oaistatic.com
+0.0.0.0 oaistatic.com
+0.0.0.0 oaiusercontent.com
+
+0.0.0.0 gemini.google.com
+0.0.0.0 aistudio.google.com
+0.0.0.0 makersuite.google.com
+0.0.0.0 alkalimakersuite-pa.clients6.google.com
+0.0.0.0 generativelanguage.googleapis.com
+0.0.0.0 proactivebackend-pa.googleapis.com
+0.0.0.0 aisandbox-pa.googleapis.com
+
+0.0.0.0 claude.ai
+0.0.0.0 anthropic.com
+0.0.0.0 api.anthropic.com
+0.0.0.0 console.anthropic.com
+
+0.0.0.0 cursor.sh
+0.0.0.0 cursor.com
+0.0.0.0 api2.cursor.sh
+0.0.0.0 copilot.microsoft.com
